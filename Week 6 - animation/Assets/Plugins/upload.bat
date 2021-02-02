@@ -1,0 +1,1 @@
+curl -v -b cookie -X PUT -F "space_template[zip]=@/Users/Kate/Desktop/Github/Week-6-animation/Week 6 - animation/template.zip" -F "space_template[game_engine_version]=20194" https://account.altvr.com/api/space_templates/1664003726911733833.json
